@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "manepearsscythe",
+  "version": "${version}",
+  "name": "ManePear's Scythe",
+  "description": "Adds a custom scythe inspired by ManePear's videos.",
+  "authors": ["ManePear"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/manepearsscythe/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.manepearsscythe.ManePearsScytheMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
