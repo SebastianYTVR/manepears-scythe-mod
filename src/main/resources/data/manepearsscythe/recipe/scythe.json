@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  N",
+        " HN",
+        "B N"
+    ],
+    "key": {
+        "N": { "item": "minecraft:netherite_ingot" },
+        "H": { "item": "minecraft:heavy_core" },
+        "B": { "item": "minecraft:wind_charge" }
+    },
+    "result": {
+        "id": "manepearsscythe:scythe",
+        "count": 1
+    }
+}
